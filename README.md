@@ -14,13 +14,6 @@ Remember to put API Key on  AsteroidRepistory.kt file
 24. private val apiKey = "" // Insert API KEY Here
 ```
 
-### Screenshots
-
-![Screenshot 1](starter/screenshots/screen_1.png)
-![Screenshot 2](starter/screenshots/screen_2.png)
-![Screenshot 3](starter/screenshots/screen_3.png)
-![Screenshot 4](starter/screenshots/screen_4.png)
-
 ### Dependencies
 
 ```
