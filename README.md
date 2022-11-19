@@ -14,7 +14,6 @@ You will be provided with a starter code, which includes the necessary dependenc
 
 The most important dependencies we are using are:
 - Retrofit to download the data from the Internet.
-- Moshi to convert the JSON data we are downloading to usable data in form of custom classes.
 - Glide to download and cache images.
 - RecyclerView to display the asteroids in a list.
 
