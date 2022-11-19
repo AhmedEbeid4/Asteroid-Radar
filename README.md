@@ -13,7 +13,7 @@ This kind of app is one of the most usual in the real world, what you will learn
 You will be provided with a starter code, which includes the necessary dependencies and plugins that you have been using along the courses and that you are going to need to complete this project. 
 
 The most important dependencies we are using are:
-- Retrofit to download the data from the Internet.
+- Retrofit to Get the data from the Internet.
 - Glide to download and cache images.
 - RecyclerView to display the asteroids in a list.
 
